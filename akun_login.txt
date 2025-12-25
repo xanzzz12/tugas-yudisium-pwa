@@ -1,0 +1,15 @@
+ADMIN/SUPERUSER
+username: admin
+password: admin123
+
+StafProdi
+username: stafProd
+password: stafProd123
+
+StafBAA
+username: stafBAA
+password: stafBAA123
+
+Mahasiswa
+username: 20210105
+password: 20210105
